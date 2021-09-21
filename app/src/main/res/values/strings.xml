@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tugasmp1</string>
+    <string name="profile_nama">Erwinda putri</string>
+    <string name="profile_username">erwindaputrie</string>
+    <string name="profile_follow_count">follow</string>
+    <string name="profile_followers">990k</string>
+    <string name="profile_folloe_botton">Followers</string>
+    <string name="profile_post_count">20</string>
+    <string name="profile_lbl_posts">Posts</string>
+    <string name="profile_following_count">40</string>
+    <string name="profile_following">Following</string>
+</resources>
